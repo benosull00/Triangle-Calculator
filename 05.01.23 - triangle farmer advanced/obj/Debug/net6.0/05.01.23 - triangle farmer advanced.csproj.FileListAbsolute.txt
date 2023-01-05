@@ -1,0 +1,15 @@
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\bin\Debug\net6.0\05.01.23 - triangle farmer advanced.exe
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\bin\Debug\net6.0\05.01.23 - triangle farmer advanced.deps.json
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\bin\Debug\net6.0\05.01.23 - triangle farmer advanced.runtimeconfig.json
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\bin\Debug\net6.0\05.01.23 - triangle farmer advanced.dll
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\bin\Debug\net6.0\05.01.23 - triangle farmer advanced.pdb
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\obj\Debug\net6.0\05.01.23 - triangle farmer advanced.csproj.AssemblyReference.cache
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\obj\Debug\net6.0\05.01.23 - triangle farmer advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\obj\Debug\net6.0\05.01.23 - triangle farmer advanced.AssemblyInfoInputs.cache
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\obj\Debug\net6.0\05.01.23 - triangle farmer advanced.AssemblyInfo.cs
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\obj\Debug\net6.0\05.01.23 - triangle farmer advanced.csproj.CoreCompileInputs.cache
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\obj\Debug\net6.0\05.01.23 - triangle farmer advanced.dll
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\obj\Debug\net6.0\refint\05.01.23 - triangle farmer advanced.dll
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\obj\Debug\net6.0\05.01.23 - triangle farmer advanced.pdb
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\obj\Debug\net6.0\05.01.23 - triangle farmer advanced.genruntimeconfig.cache
+C:\Users\osull\Desktop\Work\Week 1\05.01.23\05.01.23 - triangle farmer advanced\obj\Debug\net6.0\ref\05.01.23 - triangle farmer advanced.dll
